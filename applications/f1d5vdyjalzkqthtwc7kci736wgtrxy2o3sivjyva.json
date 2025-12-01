@@ -35,12 +35,12 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "TotalDatacapReached",
     "Validated At": "2025-11-06 06:59:35.475542230 UTC",
     "Validated By": "fengfeihuimin",
-    "Active": true,
-    "Updated At": "2025-11-06 06:59:35.475537968 UTC",
-    "Active Request ID": "df843eb9-e5f4-40b6-8561-ea3425ef1c61",
+    "Active": false,
+    "Updated At": "2025-12-01 03:00:07.151863379 UTC",
+    "Active Request ID": null,
     "On Chain Address": "f1d5vdyjalzkqthtwc7kci736wgtrxy2o3sivjyva",
     "Multisig Address": "false",
     "edited": false
